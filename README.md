@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there. My name is Reychell Vega 👋
+
+Computer science student with teamwork abilities and information technologies knowledge. 
+
 
 <!--
 **ReychVega/ReychVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
