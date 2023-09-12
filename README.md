@@ -1,6 +1,11 @@
 ### Hi there. My name is Reychell Vega 👋
 
 Computer science student with teamwork abilities and information technologies knowledge. 
+I help students with their goals with my mentoring, while improving my soft skills without neglecting continuous learning.
+
+### Where to find me
+-[LinkedIn] (https://www.linkedin.com/in/reychell-vega-p%C3%A9rez-77b6b71ba/). 
+¡No dudes en enviarme un mensaje si deseas colaborar en proyectos interesantes o simplemente charlar sobre [tu área de interés]!
 
 
 <!--
