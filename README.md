@@ -20,10 +20,6 @@
 
   <img src="https://img.shields.io/badge/IIS-ffb3d9?style=for-the-badge&logo=windows&logoColor=white" />
 
-  <a href="https://www.linkedin.com/in/reychell-vega-p%C3%A9rez-77b6b71ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Reychell%20Vega-ff8ac4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
 </p>
 
 ---
