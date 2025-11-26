@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ReychVega/PrivateImg/main/HOJITAS.gif" height="100px" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=B30059&center=true&vCenter=true&lines=Systems+Engineer;Power+Apps+%7C+Power+BI+Developer;Oracle+iFactory+Support;Web+Developer;Automation+Enthusiast+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=B30059&center=true&vCenter=true&lines=Systems+Engineer;Power+Apps+%7C+Power+BI+Developer;Oracle+iFactory+Support;Web+Developer;Automation+Enthusiast">
   <img src="https://raw.githubusercontent.com/ReychVega/PrivateImg/main/HOJITAS.gif" height="100px" />
 </p>
 
