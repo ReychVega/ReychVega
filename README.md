@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Oracle-b30059?style=for-the-badge&logo=oracle&logoColor=white" />
 
   <img src="https://img.shields.io/badge/IIS-ffb3d9?style=for-the-badge&logo=windows&logoColor=white" />
-
 </p>
 
 ---
