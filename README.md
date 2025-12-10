@@ -45,11 +45,6 @@ I love solving problems, optimizing processes, and helping teams with tools that
 
 ---
 
-## 📊🌸 GitHub Activity  
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ReychVega&theme=tokyonight&hide_border=true" />
-</div>
-
 ---
 
 ## 📩🌸 Connect With Me
